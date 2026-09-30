@@ -26,7 +26,7 @@
 | Projet | Description | Technologies | Statut |
 | :--- | :--- | :--- | :--- |
 | ⌨️ **[Azertype](https://github.com/Tothan1/azertype)** | Application web d'entraînement à la dactylographie pour tester et améliorer sa vitesse de frappe | JavaScript, HTML, CSS | ✅ Terminé / Maintenu |
-| 💓 **Valentin | Soyez patient, que je finisse ce projet pour le découvrir | — | 📅 En cours |
+| 💓 Valentin | Soyez patient, que je finisse ce projet pour le découvrir | — | 📅 En cours |
 
 ---
 
