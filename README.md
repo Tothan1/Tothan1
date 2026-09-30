@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Salut, c'est Tyty (Tothan1) !
 
-<!--
-**Tothan1/Tothan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Étudiant à l'école 42**  
+💻 **Développeur passionné**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 À propos de moi
+
+- 🎓 Étudiant à l'école 42
+- 🧠 Passionné par le développement, l'algorithmie et la résolution de problèmes
+- 🛠️ Toujours curieux d'explorer de nouvelles technologies et de concevoir des projets concrets
+- 🌙 Touche-à-tout, j'apprends et j'expérimente au quotidien
+
+---
+
+### 🧑‍💻 Langages & Technologies
+
+- **Langages :** C, C++, JavaScript, HTML5, CSS3
+- **Outils & Environnement :** Git, GitHub, Linux, VS Code
+
+---
+
+### 🧩 Projets personnels
+
+| Projet | Description | Technologies | Statut |
+| :--- | :--- | :--- | :--- |
+| ⌨️ **[Azertype](Lien_vers_ton_repo_Azertype)** | Application web d'entraînement à la dactylographie pour tester et améliorer sa vitesse de frappe | JavaScript, HTML, CSS | ✅ Terminé / Maintenu |
+| 🔓 **À venir** | De nouveaux projets personnels et académiques seront ajoutés prochainement | — | 📅 En cours |
+
+---
+
+### ⭐ N'hésite pas à explorer mes dépôts et à suivre mon évolution !
